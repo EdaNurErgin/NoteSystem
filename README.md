@@ -65,13 +65,12 @@ src/
 --- Kurulum
 
 Proje Deposu:  
-Bu projeyi GitHub deposundan klonlayin ya da indirin.  
-git clone <repository-url>
+1.Bu projeyi GitHub deposundan klonlayin ya da indirin.  
 
-Gelistirme Ortami:  
+2.Gelistirme Ortami:  
 IDE'nizde (IntelliJ IDEA kullanilarak proje yazildi) projeyi acin.  
 
-Bagimliliklari Kontrol Edin:  
+3.Bagimliliklari Kontrol Edin:  
 Gerekli kutuphanelerin yuklu oldugundan emin olun.
 
 
