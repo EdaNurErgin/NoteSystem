@@ -14,7 +14,7 @@ Kisisel Not Defteri uygulamasinin temel amaclari:
 -Gorsel ve metin tabanli notlarin yonetimini bir araya getirerek kullanim kolayligi sunmak.
 
 ---Proje Ozellikleri
--Kullanici Yonetimi:
+--Kullanici Yonetimi:
 Yeni kullanici kayit sistemi
 Kullanici girisi ve dogrulama
 -Not Yonetimi:
