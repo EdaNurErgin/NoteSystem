@@ -63,8 +63,8 @@ src/
   - DatabaseConnection.java: Veritabanı baglantisi.
 
 --- Kurulum
-Proje Deposu: Bu projeyi GitHub deposundan klonlayin ya da indirin.
-git clone <repository-url>
+  -Proje Deposu: Bu projeyi GitHub deposundan klonlayin ya da indirin.
+  -git clone <repository-url>
 
 Gelistirme Ortami: IDE'nizde (IntelliJ IDEA kullanilarak proje yazildi) projeyi acin.
 
